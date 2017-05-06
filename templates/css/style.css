@@ -1,0 +1,105 @@
+.uk-navbar-container:not(.uk-navbar-transparent) {
+    background: #39424e;
+}
+
+.logo {
+    width: 60%;
+}
+
+.uk-navbar-nav>li.uk-active>a {
+    color: #fff;
+}
+
+.uk-navbar-nav>li>a {
+    color: #C2C7D0;
+    font-size: 16px;
+    text-transform: capitalize;
+}
+
+.header-nav {
+    border-bottom: 1px solid #e0e4e8;
+}
+
+.header-nav h4 {
+    color: #111;
+    margin-bottom: 10px;
+}
+
+.uk-card-default {
+    box-shadow: none;
+    border: 1px solid #C2C7D0;
+    border-radius: 5px;
+}
+
+.uk-card-default:hover {
+    border: 1px solid #4458c0;
+}
+
+p {
+    margin-top: 0px;
+}
+
+h4 {
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+span {
+    font-style: bold;
+    font-size: 20px;
+    color: #111;
+}
+
+.card-margin-left {
+    margin-right: 100px;
+}
+
+.uk-card-body {
+    padding: 20px 20px;
+}
+
+time {
+    border: 1px solid #C2C7D0;
+    border-radius: 5px;
+}
+
+footer {
+    background: #39424e;
+}
+
+a {
+    color: #fff;
+}
+
+.avatar {
+    width: 13%;
+    border-radius: 5px;
+}
+
+.avatar-a {
+    color: #fff;
+}
+
+.card-height{
+    height: 215px;
+}
+
+.back-event {
+    height: 100%;
+    width: 100%;
+}
+
+.logo-event {
+    width: 25%;
+}
+
+.button {
+    color: #4458c0;
+    border: 1px solid #4458c0;
+}
+
+.login-btn{
+    height: 40px;
+    border-radius: 4px;
+    color: #fff;
+}
